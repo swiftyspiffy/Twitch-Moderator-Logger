@@ -11,7 +11,7 @@ This application allows a moderator (or streamer) to login and log all activitie
 ![https://swfty.xyz/634uDS013](https://swfty.xyz/634uDS013)
 
 ## Download
-If you want to just use the application, and not worry about the source code, you can download it right from the repo. The link to the direct download is here: 
+If you want to just use the application, and not worry about the source code, you can download it right from the repo. The link to the direct download is here: https://github.com/swiftyspiffy/Twitch-Moderator-Logger/blob/master/Twitch%20Moderator%20Logger.zip
 
 ## Features
 Want a feature added? You can create an Issue and I'll add it when I get a chance, or you are welcome to create a pull request and I'll merge it for ya :)
