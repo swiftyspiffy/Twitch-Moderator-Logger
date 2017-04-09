@@ -3,6 +3,9 @@
 ## About
 This application allows a moderator (or streamer) to login and log all activities performed by mods in Twitch chat (bans, unbans, timeouts). It logs them in a neat UI that allows for customizable columns. Settings are also saved to a config file.
 
+## GIF
+![http://swiftyspiffy.com/twitchmodlogger/video.gif](http://swiftyspiffy.com/twitchmodlogger/video.gif)
+
 ## Images
 ![https://swfty.xyz/711zUb193](https://swfty.xyz/711zUb193)
 
